@@ -2,4 +2,5 @@ Kubis
 Terong
 Bonteng
 Kelapa
-Semangka
+Wortel
+Labu
